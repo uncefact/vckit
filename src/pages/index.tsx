@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://vckit.io">
+            to="https://test.uncefact.org">
             Try the demo
           </Link>
         </div>
