@@ -16,7 +16,7 @@ module.exports = {
   organizationName: 'uncefact',
   projectName: 'vc-kit',
   url: 'https://uncefact.github.io',
-  baseUrl: 'vckit-docs/',
+  baseUrl: 'vckit/',
   clientModules: [
     require.resolve('./modules/snackPlayerInitializer.js'),
     require.resolve('./modules/jumpToFragment.js'),
