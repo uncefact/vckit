@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 300" width="1500" height="300" style="background-color:#150F38">
+  <!-- Define the circle and line styles -->
+  <style>
+    circle {
+      fill:  #39ACE7;
+      opacity: 0.5;
+    }
+    line {
+      stroke:  #39ACE7;
+      stroke-width: 0.2;
+      opacity: 0.5;
+    }
+  </style>
+  <!-- Use a <script> tag to generate 100 random circles and draw lines between them -->
+  <script>
+    //<![CDATA[
+    var circles = [];
+    for (var i = 0; i < 2000; i++) {
+      // Define a random position and radius for each circle
+      var cx = Math.random() * 1500;
+      var cy = Math.random() * 300;
+      var r = 1 + Math.random();
+      
+      // Create a new circle element with the randomized attributes
+      var circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+      circle.setAttribute("cx", cx);
+      circle.setAttribute("cy", cy);
+      circle.setAttribute("r", r);
+      
+      // Append the circle to the SVG and add it to the array of circles
+      document.querySelector("svg").appendChild(circle);
+      circles.push({ cx: cx, cy: cy, r: r });
+    }
+    
+    // Loop through the circles and draw lines between them if they are within a certain distance
+    for (var i = 0; i < circles.length; i++) {
+      for (var j = i + 1; j < circles.length; j++) {
+        var distance = Math.sqrt(Math.pow(circles[i].cx - circles[j].cx, 2) + Math.pow(circles[i].cy - circles[j].cy, 2));
+        if (distance <= 20) { // Draw a line if the circles are within 20 units of each other
+          var line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+          line.setAttribute("x1", circles[i].cx);
+          line.setAttribute("y1", circles[i].cy);
+          line.setAttribute("x2", circles[j].cx);
+          line.setAttribute("y2", circles[j].cy);
+          document.querySelector("svg").appendChild(line);
+        }
+      }
+    }
+    //]]>
+  </script>
+</svg>
+
+
+
+
