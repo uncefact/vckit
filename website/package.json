@@ -1,0 +1,63 @@
+{
+  "name": "vckit-website",
+  "description": "website and documentation for uncefact project vc-kit",
+  "version": "0.0.1",
+  "private": true,
+  "license": "CC-BY-4.0",
+  "homepage": "https://reactnative.dev/",
+  "repository": "github:uncefact/vckit-website",
+  "bugs": {
+    "url": "https://github.com/uncefact/vckit-website/issues"
+  },
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "clean": "docusaurus clear",
+    "test": "yarn build",
+    "version:cut": "docusaurus docs:version",
+    "format:source": "prettier --write {{core,src}/**/*.js,*.js}",
+    "format:markdown": "prettier --write ../docs/*.md && prettier --write {versioned_docs/**/*.md,blog/*.md}",
+    "format:style": "prettier --write src/**/*.{scss,css}",
+    "format:examples": "eslint-examples-js --fix && eslint-examples-tsx --fix",
+    "prettier": "yarn format:source && yarn format:markdown && yarn format:style",
+    "lint": "eslint ../docs/** blog/** core/** src/**/*.js ./*.js"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.3.1",
+    "@docusaurus/plugin-pwa": "^2.3.1",
+    "@docusaurus/preset-classic": "^2.3.1",
+    "@mdx-js/loader": "^2.3.0",
+    "docusaurus-plugin-sass": "^0.2.2",
+    "esbuild-loader": "^2.19.0",
+    "rapidoc": "^9.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-github-btn": "^1.3.0",
+    "sass": "^1.53.0"
+  },
+  "devDependencies": {
+    "@docusaurus/types": "^2.3.1",
+    "alex": "^10.0.0",
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.3",
+    "glob-promise": "^4.2.2",
+    "path": "^0.12.7",
+    "remark-cli": "^11.0.0",
+    "remark-lint-no-dead-urls": "^1.1.0"
+  }
+}

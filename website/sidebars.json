@@ -1,0 +1,17 @@
+{
+  "docs": {
+    "Getting Started": [
+      "introduction",
+      "quickstart",
+      "identifiers",
+      "credentials",
+      "presentations",
+      "verifying",
+      "selective-disclosure",
+      "qr-codes",
+      "did-comm"
+    ],
+    "Installing Locally": [
+      "environment-setup"
+    ]  }
+}
