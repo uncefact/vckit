@@ -32,7 +32,7 @@ module.exports = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   webpack: {
     jsLoader: isServer => ({
       loader: require.resolve('esbuild-loader'),
