@@ -3,8 +3,6 @@
     "Getting Started": [
       "vckit/introduction",
       "vckit/using_vckit",
-      "vckit/features",
-      "vckit/roadmap",
       "vckit/contributing"
     ],
     "Background": [
@@ -19,25 +17,31 @@
       "overview/adoption",
       "overview/initiatives",
       "overview/future",
-      "what-is-vckit",
-      "design-goals",
-      "implementation",
-      "features",
-      "interactive-api-docs",
-      "wallet-interface",
-      "interoperability-tests",
-      "roadmap"
+      "overview/features",
+      "overview/roadmap"
     ],
-    "Developers": [
-      "quickstart",
-      "identifiers",
-      "credentials",
-      "presentations",
-      "verifying",
-      "selective-disclosure",
-      "qr-codes",
-      "did-comm"
-    ],
-    "Deployment Guides": ["environment-setup"]
+    "Tutorials": {
+      "CLI": [
+        "cli/quickstart",
+        "cli/identifiers",
+        "cli/credentials",
+        "cli/presentations",
+        "cli/verifying",
+        "cli/selective-disclosure",
+        "cli/qr-codes",
+        "cli/messages"
+      ],
+      "Agent Explorer": [
+        "explorer/quickstart",
+        "explorer/identifiers",
+        "explorer/credentials",
+        "explorer/presentations",
+        "explorer/verifying",
+        "explorer/selective-disclosure",
+        "explorer/qr-codes",
+        "explorer/messages"
+      ]
+    },
+    "Deployment Guides": ["deployment_guides/overview"]
   }
 }

@@ -28,4 +28,5 @@ Verifiable credentials adoption in cross-border trade is gaining momentum throug
 
 By leveraging industry initiatives and collaborations, the adoption of verifiable credentials in cross-border trade can unlock substantial benefits. These benefits include improved efficiency, reduced fraud, enhanced trust, and streamlined regulatory compliance. The collective efforts of stakeholders from various sectors are paving the way for a secure, transparent, and efficient global trade ecosystem.
 
-To stay informed and engage with industry initiatives, consider following industry associations, participating in relevant conferences and forums, and exploring resources that highlight successful use cases and collaborations. By embracing verifiable credentials, industries can transform cross-border trade, unlock new opportunities, and foster a resilient and trusted global economy.
+> TODO: edit content,
+> add references, links...

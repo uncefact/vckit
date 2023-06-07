@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-User Experience and Adoption: Embracing Verifiable Credentials for Seamless Cross-Border Trade
-
 Verifiable credentials offer a transformative user experience for individuals and organizations involved in cross-border trade. In this concise overview, we will explore the user experience of verifiable credentials and the challenges and considerations for their widespread adoption in the context of cross-border trade.
 
 1. User Experience:
@@ -29,4 +27,5 @@ d. User Awareness and Education: To drive widespread adoption, individuals and o
 
 By addressing these challenges and considerations, the widespread adoption of verifiable credentials in cross-border trade can unlock tremendous benefits, including enhanced efficiency, reduced costs, improved security, and increased trust among participants.
 
-To delve deeper into the user experience and adoption of verifiable credentials in cross-border trade, consider exploring case studies, attending industry events, and engaging with relevant digital identity and trade facilitation communities. Embracing verifiable credentials fosters a seamless and trusted environment for cross-border transactions, revolutionizing the way individuals and organizations interact and conduct business on a global scale.
+> TODO: edit content,
+> add references, links...

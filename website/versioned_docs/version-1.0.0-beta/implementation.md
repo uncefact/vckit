@@ -1,4 +1,0 @@
----
-id: implementation
-title: Implementation
----

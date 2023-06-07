@@ -25,4 +25,5 @@ Verifiable credentials bring forth significant benefits to cross-border trade:
 
 The adoption of verifiable credentials in cross-border trade facilitates trusted interactions, simplifies processes, and enhances efficiency while maintaining privacy and security. As businesses embrace this technology, they can expect faster and smoother international transactions, reduced paperwork, and increased confidence in the authenticity and validity of trade-related information.
 
-To learn more about verifiable credentials in cross-border trade, you can explore industry-specific case studies, attend trade-related events, and engage with organizations working in the field. Verifiable credentials are a promising advancement that empowers businesses to thrive in the global marketplace while ensuring secure and trusted trade interactions.
+> TODO: edit content,
+> add references, links...

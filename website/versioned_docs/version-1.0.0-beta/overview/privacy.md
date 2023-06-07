@@ -32,4 +32,5 @@ Verifiable credentials rely on cryptographic techniques to ensure the security o
 
 By incorporating these privacy-enhancing features and employing robust cryptographic techniques, verifiable credentials provide a secure and trusted mechanism for cross-border trade. Individuals and organizations can confidently share and verify trade-related information while maintaining control over their privacy and reducing the risk of fraud or unauthorized access.
 
-To delve deeper into the technical aspects of trust, privacy, and security in the context of verifiable credentials, consider exploring resources such as research papers, industry standards, or attending webinars and conferences focused on digital identity and cross-border trade. The adoption of verifiable credentials strengthens trust, protects privacy, and safeguards the security of cross-border transactions, ensuring a resilient and reliable global trade ecosystem.
+> TODO: edit content,
+> add references, links...

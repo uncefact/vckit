@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Key Components of Verifiable Credentials: Building Trust in Cross-Border Trade
-
 Verifiable credentials are at the core of secure and efficient cross-border trade, facilitating the exchange of trusted information between trading partners, customs authorities, and regulatory bodies. In this concise overview, we will explore the key components of verifiable credentials and their significance in the context of cross-border trade.
 
 1. Credential Issuer, Holder, and Verifier Roles:
@@ -29,4 +27,5 @@ Verifiable credentials are at the core of secure and efficient cross-border trad
 
 In the context of cross-border trade, these key components of verifiable credentials enable trading partners and regulatory bodies to establish trust, streamline verification processes, and enhance the security of trade-related information. Verifiable credentials provide a digital mechanism to securely exchange and verify important attributes and qualifications, reducing paperwork, improving efficiency, and promoting transparency in cross-border transactions.
 
-To gain a deeper understanding of the intricacies of verifiable credentials in cross-border trade, consider exploring resources such as industry publications, standards frameworks, and case studies. This knowledge will empower businesses engaged in international trade to leverage the potential of verifiable credentials, fostering trust and efficiency in the global marketplace.
+> TODO: edit content,
+> add references, links...

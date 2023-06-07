@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Decentralized Identity and Self-Sovereign Identity: Empowering Users in Cross-Border Trade
-
 In the digital age, decentralized identity and self-sovereign identity models have emerged as powerful concepts that redefine the way individuals and organizations manage their personal information. In this concise overview, we will introduce the concepts of decentralized and self-sovereign identity and highlight the benefits they bring to cross-border trade.
 
 Decentralized Identity:
@@ -30,4 +28,5 @@ In the context of cross-border trade, decentralized and self-sovereign identity 
 
 By embracing decentralized and self-sovereign identity models in cross-border trade, individuals and organizations gain greater control, privacy, and security over their digital identities. Verifiable credentials empower them to securely share and verify trade-related information, streamlining processes and fostering trusted interactions.
 
-To delve deeper into the realm of decentralized and self-sovereign identity and their impact on cross-border trade, consider exploring resources such as industry reports, research papers, or attending webinars and conferences that focus on digital identity in international trade. The adoption of these models paves the way for more efficient and secure cross-border transactions, ensuring individuals have ownership over their identities while enabling seamless global commerce.
+> TODO: edit content,
+> add references, links...

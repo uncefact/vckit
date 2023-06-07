@@ -40,4 +40,5 @@ Verifiable credentials are poised to revolutionize cross-border trade, offering 
 
 As verifiable credentials continue to evolve, stakeholders across industries and governments must work collaboratively to address these challenges, seize emerging opportunities, and shape the future of cross-border trade. By navigating these challenges and embracing the potential of verifiable credentials, a more efficient, secure, and trusted global trade ecosystem can be realized.
 
-To stay informed about future perspectives, trends, and challenges in the realm of verifiable credentials, consider engaging with industry forums, attending conferences, and exploring research and publications in the digital identity and trade facilitation domains. Embracing the advancements in verifiable credentials ensures a resilient and future-ready approach to cross-border trade.
+> TODO: edit content,
+> add references, links...

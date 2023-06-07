@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Technical Standards and Ecosystem: Driving Interoperability for Cross-Border Trade with Verifiable Credentials
-
 Verifiable credentials thrive within a robust technical ecosystem supported by industry-wide standards. In this concise overview, we will explore the key technical standards and the concept of interoperability that underpin the seamless exchange of verifiable credentials in the context of cross-border trade.
 
 1. W3C Verifiable Credentials:
@@ -25,4 +23,5 @@ Interoperability is a critical aspect of the verifiable credentials ecosystem, e
 
 The adoption of technical standards such as W3C Verifiable Credentials, DIDs, and DIDComm fosters a thriving ecosystem that supports the interoperable exchange of verifiable credentials. This enables organizations, platforms, and regulatory bodies involved in cross-border trade to communicate effectively, securely, and with confidence.
 
-To gain a deeper understanding of the technical standards and ecosystem supporting verifiable credentials, consider exploring relevant resources, industry whitepapers, or attending conferences and webinars focused on digital identity and cross-border trade facilitation. Embracing these standards and promoting interoperability fosters a harmonious digital environment, driving efficient, secure, and trusted cross-border transactions for a thriving global economy.
+> TODO: edit content,
+> add references, links...

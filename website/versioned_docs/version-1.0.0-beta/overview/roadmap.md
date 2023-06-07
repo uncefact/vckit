@@ -5,6 +5,8 @@ title: Roadmap
 
 import Disclaimer from './\_disclaimer.mdx';
 
+> Please note that the roadmap is provided for informational purposes only and does not represent a binding commitment. We appreciate your feedback and encourage you to actively engage with us as we progress through this phase.
+
 This document outlines our vision and planned milestones for the future development and enhancement of vc-kit. This roadmap provides a high-level overview of our strategic direction and key features we aim to deliver. Please note that this roadmap is subject to change based on user feedback and evolving industry standards.
 
 **Phase 1: Foundation (Current Release)**
@@ -62,4 +64,4 @@ The addition of these two phases to our roadmap reflects our commitment to indus
 
 This roadmap outlines our planned trajectory for vc-kit, with a focus on delivering robust features, improving interoperability, enhancing user experience, and expanding adoption. We are committed to continually iterating and refining vc-kit to meet the evolving needs of organizations involved in cross-border trade and the verifiable credentials landscape.
 
-Please note that the roadmap is provided for informational purposes only and does not represent a binding commitment. We appreciate your feedback and encourage you to actively engage with us as we progress through these phases, building a stronger ver
+> Please note that the roadmap is provided for informational purposes only and does not represent a binding commitment. We appreciate your feedback and encourage you to actively engage with us as we progress through this phase.

@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Verifiable Credentials Use Cases: Practical Applications for Cross-Border Trade
-
 Verifiable credentials have found widespread adoption across various industries, bringing practical solutions to complex challenges. In this concise overview, we will explore real-world examples of verifiable credentials in action, highlighting their applications and benefits in the context of cross-border trade.
 
 1. Education:
@@ -25,4 +23,5 @@ Verifiable credentials have found widespread adoption across various industries,
 
 The practical applications of verifiable credentials extend beyond these examples, with various industries harnessing their potential to address specific needs. As cross-border trade increasingly relies on digital interactions, verifiable credentials offer a reliable and secure mechanism for sharing and verifying information, fostering trusted relationships and efficient global commerce.
 
-To explore further real-world examples and gain insights into the benefits of verifiable credentials in cross-border trade, consider reading case studies, industry reports, and attending conferences or webinars focusing on digital identity and trade facilitation. Embracing the use of verifiable credentials empowers individuals and organizations to navigate the complexities of international trade with confidence, ensuring seamless transactions, increased trust, and enhanced global economic collaboration.
+> TODO: edit content,
+> add references, links...

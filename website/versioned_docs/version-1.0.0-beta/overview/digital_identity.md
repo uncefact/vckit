@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-Understanding Digital Identity: Empowering Cross-Border Trade
-
 Digital identity plays a crucial role in today's interconnected world, where online interactions and cross-border trade have become increasingly prevalent. In this concise overview, we will explore the concept of digital identity and highlight the differences between traditional and digital identities, with a specific focus on their relevance to cross-border trade.
 
 Digital identity refers to the electronic representation of an individual, organization, or entity in the digital realm. It encompasses the information and attributes that establish and verify one's online presence and interactions. Just as physical identification documents such as passports or driver's licenses establish our identity in the physical world, digital identity establishes our presence and authenticity in the digital landscape.
@@ -25,4 +23,5 @@ The differences between traditional and digital identities are significant:
 
 In cross-border trade, digital identities powered by verifiable credentials enable more efficient and secure international transactions. Businesses can authenticate their trade-related information digitally, minimize the risk of fraud, expedite customs processes, and build trust among trading partners. The adoption of digital identities not only enhances the speed and efficiency of cross-border trade but also strengthens data privacy and security.
 
-To delve deeper into the realm of digital identity and its relevance to cross-border trade, you can explore resources such as industry reports, trade association publications, or attend events that focus on digital identity and international trade. By understanding and harnessing the power of digital identities, businesses can thrive in the global marketplace with increased trust, efficiency, and security.
+> TODO: edit content,
+> add references, links...

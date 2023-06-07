@@ -82,7 +82,7 @@ function HomeCallToAction() {
     <>
       <ActionButton
         type="primary"
-        href={useBaseUrl('docs/demos')}
+        href={useBaseUrl('docs/vckit/introduction')}
         target="_self">
         Get Started
       </ActionButton>

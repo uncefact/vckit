@@ -102,12 +102,12 @@ module.exports = {
             position: 'right',
           },
           {
-            to: '/docs/features',
+            to: '/docs/overview/features',
             label: 'Features',
             position: 'right',
           },
           {
-            to: '/docs/roadmap',
+            to: '/docs/overview/roadmap',
             label: 'Roadmap',
             position: 'right',
           },
@@ -117,7 +117,7 @@ module.exports = {
             position: 'right',
           },
           {
-            to: '/docs/demos',
+            to: '/docs/vckit/demos',
             label: 'Demos',
             position: 'right',
           },

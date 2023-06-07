@@ -1,4 +1,0 @@
----
-id: verifying
-title: Verifying
----

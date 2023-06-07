@@ -7,8 +7,6 @@ import Disclaimer from '../\_disclaimer.mdx';
 
 <Disclaimer />
 
-# Background
-
 ## History of Verifiable Credentials
 
 Verifiable credentials have emerged as a powerful solution for addressing the challenges associated with digital identity management and trust in the online world. The concept of verifiable credentials dates back to the emergence of self-sovereign identity (SSI) systems, which aimed to provide individuals with control over their personal information and enable secure, privacy-preserving interactions online.
@@ -40,3 +38,6 @@ While verifiable credentials offer immense potential in cross-border trade, ther
 Despite these challenges, the adoption of verifiable credentials in cross-border trade holds tremendous potential for revolutionizing trust, security, and efficiency in global trade operations. By addressing these challenges and leveraging the benefits of verifiable credentials, organizations can unlock new opportunities and streamline their cross-border trade processes effectively.
 
 Please refer to the subsequent sections of this documentation for detailed guidance on implementing verifiable credentials using VC-Kit and overcoming these challenges in your specific organizational context.
+
+> TODO: edit content,
+> add references, links...
