@@ -6,7 +6,7 @@ const commonDocsOptions = {
   breadcrumbs: false,
   showLastUpdateAuthor: false,
   showLastUpdateTime: true,
-  editUrl: 'https://github.com/uncefact/vckit-docs/blob/main/website/',
+  editUrl: 'https://github.com/uncefact/vckit/blob/main/website/',
 };
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
@@ -21,9 +21,8 @@ module.exports = {
     require.resolve('./modules/snackPlayerInitializer.js'),
     require.resolve('./modules/jumpToFragment.js'),
   ],
-  scripts:[
-    'https://cdn.jsdelivr.net/npm/rapidoc@9.3.4/dist/rapidoc-min.min.js'
-
+  scripts: [
+    'https://cdn.jsdelivr.net/npm/rapidoc@9.3.4/dist/rapidoc-min.min.js',
   ],
   trailingSlash: false,
   favicon: 'img/favicon.ico',
@@ -32,7 +31,7 @@ module.exports = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'throw',
   webpack: {
     jsLoader: isServer => ({
       loader: require.resolve('esbuild-loader'),
@@ -98,7 +97,7 @@ module.exports = {
         style: 'primary',
         items: [
           {
-            to: '/docs/introduction',
+            to: '/docs/vckit/introduction',
             label: 'Getting Started',
             position: 'right',
           },
@@ -108,8 +107,8 @@ module.exports = {
             position: 'right',
           },
           {
-            to: '/docs/architecture',
-            label: 'Architecture',
+            to: '/docs/roadmap',
+            label: 'Roadmap',
             position: 'right',
           },
           {

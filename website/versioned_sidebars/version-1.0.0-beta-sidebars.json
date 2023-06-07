@@ -1,0 +1,43 @@
+{
+  "docs": {
+    "Getting Started": [
+      "vckit/introduction",
+      "vckit/using_vckit",
+      "vckit/features",
+      "vckit/roadmap",
+      "vckit/contributing"
+    ],
+    "Background": [
+      "overview/background",
+      "overview/introduction",
+      "overview/digital_identity",
+      "overview/verifiable_credentials",
+      "overview/decentralized_identity",
+      "overview/privacy",
+      "overview/use_cases",
+      "overview/ecosystem",
+      "overview/adoption",
+      "overview/initiatives",
+      "overview/future",
+      "what-is-vckit",
+      "design-goals",
+      "implementation",
+      "features",
+      "interactive-api-docs",
+      "wallet-interface",
+      "interoperability-tests",
+      "roadmap"
+    ],
+    "Developers": [
+      "quickstart",
+      "identifiers",
+      "credentials",
+      "presentations",
+      "verifying",
+      "selective-disclosure",
+      "qr-codes",
+      "did-comm"
+    ],
+    "Deployment Guides": ["environment-setup"]
+  }
+}
