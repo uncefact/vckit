@@ -1,4 +1,0 @@
----
-id: identifiers
-title: Identifiers
----

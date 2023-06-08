@@ -1,17 +1,47 @@
 {
   "docs": {
     "Getting Started": [
-      "introduction",
-      "quickstart",
-      "identifiers",
-      "credentials",
-      "presentations",
-      "verifying",
-      "selective-disclosure",
-      "qr-codes",
-      "did-comm"
+      "vckit/introduction",
+      "vckit/using_vckit",
+      "vckit/contributing"
     ],
-    "Installing Locally": [
-      "environment-setup"
-    ]  }
+    "Background": [
+      "overview/background",
+      "overview/introduction",
+      "overview/digital_identity",
+      "overview/verifiable_credentials",
+      "overview/decentralized_identity",
+      "overview/privacy",
+      "overview/use_cases",
+      "overview/ecosystem",
+      "overview/adoption",
+      "overview/initiatives",
+      "overview/future",
+      "overview/features",
+      "overview/roadmap"
+    ],
+    "Tutorials": {
+      "CLI": [
+        "cli/quickstart",
+        "cli/identifiers",
+        "cli/credentials",
+        "cli/presentations",
+        "cli/verifying",
+        "cli/selective-disclosure",
+        "cli/qr-codes",
+        "cli/messages"
+      ],
+      "Agent Explorer": [
+        "explorer/quickstart",
+        "explorer/identifiers",
+        "explorer/credentials",
+        "explorer/presentations",
+        "explorer/verifying",
+        "explorer/selective-disclosure",
+        "explorer/qr-codes",
+        "explorer/messages"
+      ]
+    },
+    "Deployment Guides": ["deployment_guides/overview"]
+  }
 }

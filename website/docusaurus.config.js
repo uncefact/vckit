@@ -125,12 +125,13 @@ module.exports = {
             type: 'docsVersionDropdown',
             position: 'left',
             dropdownActiveClassDisabled: true,
-            dropdownItemsAfter: [
-              {
-                to: '/versions',
-                label: 'All versions',
-              },
-            ],
+            // TODO: put back once we have accumulated past versions to list
+            // dropdownItemsAfter: [
+            //   {
+            //     to: '/versions',
+            //     label: 'All versions',
+            //   },
+            // ],
           },
           {
             href: 'https://discord.com/channels/1100602714720829543/1103188158373449778',
