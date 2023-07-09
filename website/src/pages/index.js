@@ -89,7 +89,7 @@ function HomeCallToAction() {
       <ActionButton
         type="secondary"
         href={
-          'https://unece.org/sites/default/files/2022-07/WhitePaper_VerifiableCredentials-CBT.pdf'
+          'https://github.com/uncefact/project-crm/blob/main/website/docs/files/WhitePaperVerifiableCredentials.pdf'
         }
         target="_self">
         Read the whitepaper
