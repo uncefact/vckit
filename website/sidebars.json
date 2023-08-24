@@ -21,6 +21,7 @@
       "overview/roadmap"
     ],
     "Tutorials": {
+      "Playground": ["playground/installation", "playground/quickstart"],
       "CLI": [
         "cli/quickstart",
         "cli/identifiers",
